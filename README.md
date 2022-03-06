@@ -6,4 +6,4 @@ This example project is used to demonstrate how you could secure your Spring Boo
 
 ## Article
 
-Read the article on Medium: 
+Read the article on Medium: https://mjovanc.com/secure-your-spring-boot-application-using-keycloak-8c63e0530089
